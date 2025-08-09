@@ -19,7 +19,7 @@ class HomePage extends StatelessWidget {
           ),
         ],
       ),
-      body: Column(children: [Text('Latest products')]),
+      body: Column(children: [Text('Latest products xxx')]),
     );
   }
 }
